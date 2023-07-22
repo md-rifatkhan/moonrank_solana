@@ -1,0 +1,6 @@
+Error scraping data for https://moonrank.app/collection/bombaclot/152: Request failed with status code 404
+Error scraping data for https://moonrank.app/collection/bombaclot/1977: Request failed with status code 404
+Error scraping data for https://moonrank.app/collection/bombaclot/2443: Request failed with status code 404
+Error scraping data for https://moonrank.app/collection/bombaclot/2868: Request failed with status code 404
+Error scraping data for https://moonrank.app/collection/bombaclot/3271: read ECONNRESET
+Error scraping data for https://moonrank.app/collection/bombaclot/3535: Request failed with status code 404
